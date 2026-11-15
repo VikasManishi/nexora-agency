@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA — Autonomous AI Infrastructure & Systems",
+  "description": "Enterprise-grade autonomous workflow orchestration, zero-latency inference pipelines, and telemetry-driven AI systems engineering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
